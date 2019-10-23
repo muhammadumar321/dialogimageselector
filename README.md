@@ -3,6 +3,8 @@ Dialog Image Selector is library that will allow you to select image from galler
 
 # Screenshots:
 https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-19-57.png
+
+
 https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-49-22.png
 
 # features
