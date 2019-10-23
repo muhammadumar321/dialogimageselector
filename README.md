@@ -2,10 +2,9 @@
 Dialog Image Selector is library that will allow you to select image from gallery or camera and compressed it and give it to you size will reduce. I designed it to get compressed files for retrofit
 
 # Screenshots:
-https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-19-57.png
 
-
-https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-49-22.png
+![](https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-19-57.png)
+![](https://raw.githubusercontent.com/muhammadumar321/dialogimageselector/master/Screenshot_2019-10-09-17-15-49-22.png)
 
 # features
 1. Make dialog of this
